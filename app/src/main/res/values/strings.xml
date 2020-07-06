@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternshipWork</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="order_pending">Pending</string>
+    <string name="order_confirmed">Confirmed</string>
+</resources>

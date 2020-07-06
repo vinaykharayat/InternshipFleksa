@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1090820406023",
+    "firebase_url": "https://internship-6b20d.firebaseio.com",
+    "project_id": "internship-6b20d",
+    "storage_bucket": "internship-6b20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090820406023:android:87e5664481358fefe7e3a2",
+        "android_client_info": {
+          "package_name": "com.androboot.heyhungryinternship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090820406023-aotc3ba1rsigghami05kaifn7sihdmd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androboot.heyhungryinternship",
+            "certificate_hash": "4a913c97aea91fa02e006d6b9216df9844512928"
+          }
+        },
+        {
+          "client_id": "1090820406023-56omf671j04sklqpqtu1eoqgtlgcff51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUM5WQKpf4NnwkN5leQJRTnNL7GVFSC34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090820406023-56omf671j04sklqpqtu1eoqgtlgcff51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090820406023:android:e9ee09fa18b6fedde7e3a2",
+        "android_client_info": {
+          "package_name": "com.androboot.internshipwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090820406023-56omf671j04sklqpqtu1eoqgtlgcff51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUM5WQKpf4NnwkN5leQJRTnNL7GVFSC34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090820406023-56omf671j04sklqpqtu1eoqgtlgcff51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090820406023:android:acd53ddd91227a7ce7e3a2",
+        "android_client_info": {
+          "package_name": "com.helpinghandsorg.helpinghands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090820406023-56omf671j04sklqpqtu1eoqgtlgcff51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUM5WQKpf4NnwkN5leQJRTnNL7GVFSC34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090820406023-56omf671j04sklqpqtu1eoqgtlgcff51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
